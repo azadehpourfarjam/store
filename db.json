@@ -1,0 +1,27 @@
+{
+  "story": [
+    {"id": 1,"image": "https://digiplus.app/media/top-10-best-podium-award_23-2148774459-1675168221-e1682869983180.jpeg","title": "ویدیو استوری"},
+    {"id": 2,"image": "https://digiplus.app/media/In-Story.Cover_.arayeshSoorat-1675168184-e1682870047682.jpeg","title": "آرایش و صورت"}
+  ,{"id": 3,"image": "https://digiplus.app/media/In-Story.cover-organaizer-1675168621.jpeg","title": "نظم دهنده"},
+    {"id": 4,"image": "https://digiplus.app/media/In-Story-cover-%D8%A8%D9%88%D8%AA-%D9%86%DB%8C%D9%85-%D8%A8%D9%88%D8%AA-1675593275.jpeg","title": "انواع بوت"}
+  ],
+  "slider": [
+    {"id": 1,"src": "https://digiplus.app/media/bdcfd68026cc5516a745c8e5f9d2ccbe914baaf0_1675665064-scaled.jpg"},
+    {"id": 2,"src": "https://digiplus.app/media/fc92bb30f940461fd76e3e0f7929bfec47a16d9b_1675885241-scaled.jpg"},
+    {"id": 3,"src": "https://digiplus.app/media/b14189eb89ae10292b231c0b9d3ee3ec18ac9d49_1671703478-scaled.jpg"}
+  ],
+  "category": [
+    {"id": 1,"image": "https://digiplus.app/media/3409489-64x64.jpg","title": "آجیل و خشکبار"},
+    {"id": 2,"image": "https://digiplus.app/media/4246734b4b41dc3db5b50e0d9b1a7289200488a6_1643655696-64x64.png","title": "آرایشی و بهداشتی"},
+    {"id": 3,"image": "https://digiplus.app/media/e877f8b0b08d191af99a888143f494cede76af19_1643655714-64x64.png","title": "اگسسوری"}
+  ,{"id": 4,"image": "https://digiplus.app/media/a2b74d5400863859a7c3b16e7f7393fa07968f80_1643655649-64x64.png","title": "تبلت"}
+  ],
+  "carousel": [
+    {"id": 1,"name":"شارژر بی سیم کلومن","image": "https://digiplus.app/media/2024/05/f6cdd03729b38c005736cee865ee8069d8ea4d22_1666880534-250x250.webp","off": {"productOff":"%14","prevPrice": "1,499,000"},"price": "1,099,000"},
+    {"id": 1,"name":"هدفون بلوتوثی کلومن","image": "https://digiplus.app/media/2024/04/a48e042ad3a23c822253d06ea2b9858fdd633415_1709654143-250x250.webp","off": {"productOff":"%14","prevPrice": "1,499,000"},"price": "1,099,000"},
+    {"id": 1,"name":"شارژر بی سیم کلومن","image": "https://digiplus.app/media/2024/05/f6cdd03729b38c005736cee865ee8069d8ea4d22_1666880534-250x250.webp","off": {"productOff":"%14","prevPrice": "1,499,000"},"price": "1,099,000"},
+    {"id": 1,"name":"هدفون بلوتوثی کلومن","image": "https://digiplus.app/media/2024/04/a48e042ad3a23c822253d06ea2b9858fdd633415_1709654143-250x250.webp","off": {"productOff":"%14","prevPrice": "1,499,000"},"price": "1,099,000"},
+    {"id": 1,"name":"شارژر بی سیم کلومن","image": "https://digiplus.app/media/2024/05/f6cdd03729b38c005736cee865ee8069d8ea4d22_1666880534-250x250.webp","off": {"productOff":"%14","prevPrice": "1,499,000"},"price": "1,099,000"},
+    {"id": 1,"name":"هدفون بلوتوثی کلومن","image": "https://digiplus.app/media/2024/04/a48e042ad3a23c822253d06ea2b9858fdd633415_1709654143-250x250.webp","off": {"productOff":"%14","prevPrice": "1,499,000"},"price": "1,099,000"}
+  ]
+}
