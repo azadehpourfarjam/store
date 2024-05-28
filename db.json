@@ -45,5 +45,11 @@
       {"id": 4,"title": "رویه های بازگرداندن کالا"},
       {"id": 5,"title":"شرایط و قوانین"}
     ]}
+  ],
+  "off": [
+    {"id":1,"image":"https://digiplus.app/media/145e741eba8e8b9dca51689ef89ae1a7df7fb155_1676375860.jpg"},
+    {"id": 2,"image":"https://digiplus.app/media/aa815eeb17cf211b0497625404b12a45aeb883b0_1676449175.jpg"},
+    {"id": 3,"image": "https://digiplus.app/media/491ee34d1dda0531b6f532c0d853441615efacb4_1675237655.jpg"},
+    {"id": 4,"image": "https://digiplus.app/media/41db40c805514b782646f8364a5967095d9fab38_1676372800.jpg"}
   ]
 }
